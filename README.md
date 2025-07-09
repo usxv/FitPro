@@ -1,2 +1,2 @@
 # FitPro
-Fitness and healthcare under construction project
+Healthcare and Fitness project under construction.
